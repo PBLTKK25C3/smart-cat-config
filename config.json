@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "https://knock-path-realm-experiment.trycloudflare.com",
+  "apiBaseUrl": "https://optimize-lancaster-developers-peterson.trycloudflare.com",
   "mqttHost": "192.168.3.11",
   "mqttPort": 1883
 }
