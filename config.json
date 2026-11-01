@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "https://shopzilla-fan-abilities-lol.trycloudflare.com",
+  "apiBaseUrl": "https://api.trycloudflare.com",
   "mqttHost": "192.168.3.11",
   "mqttPort": 1883
 }
